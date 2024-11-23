@@ -1,0 +1,401 @@
+,Employment Sector,Employment Background,Public Dealing,Degree,Ideal Yearly Income
+0,Private Sector,Technical,No,Yes,More Than 1500K
+1,Private Sector,Art ,No ,Yes ,600K-900K
+2,Government Sector,Technical,No,Yes,900K-1200K
+3,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+4,Private Sector,Technical,No,Yes,1200K-1500K
+5,Private Sector,Non-Technical,No ,Yes ,600K-900K
+6,Private Sector,Art,Yes,Yes,More Than 1500K
+7,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+8,Private Sector,Non-Technical,No ,Yes ,600K-900K
+9,Government Sector,Non-Technical,Yes,No,900K-1200K
+10,Government Sector,Art,Yes,No,900K-1200K
+11,Government Sector,Non-Technical,No,No,More Than 1500K
+12,Government Sector,Technical,No,No,More Than 1500K
+13,Private Sector,Technical,No,Yes,1200K-1500K
+14,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+15,Government Sector,Non-Technical,No,No,More Than 1500K
+16,Government Sector,Non-Technical,Yes,No,900K-1200K
+17,Government Sector,Non-Technical,Yes,No,900K-1200K
+18,Private Sector,Non-Technical,No ,Yes ,600K-900K
+19,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+20,Entrepreneurship,Technical,No,No,More Than 1500K
+21,Government Sector,Technical,No,No,900K-1200K
+22,Entrepreneurship,Technical,Yes,No,More Than 1500K
+23,Entrepreneurship,Art,No,Yes,1200K-1500K
+24,Government Sector,Non-Technical,Yes,No,900K-1200K
+25,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+26,Private Sector,Technical,No,Yes,1200K-1500K
+27,Entrepreneurship,Non-Technical,No,No,900K-1200K
+28,Entrepreneurship,Art,No,Yes,1200K-1500K
+29,Government Sector,Non-Technical,Yes,No,900K-1200K
+30,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+31,Government Sector,Non-Technical,Yes,No,900K-1200K
+32,Government Sector,Non-Technical,Yes,No,1200K-1500K
+33,Government Sector,Non-Technical,Yes,No,1200K-1500K
+34,Private Sector,Non-Technical,No ,Yes ,900K-1200K
+35,Private Sector,Technical,No,Yes,More Than 1500K
+36,Government Sector,Non-Technical,No ,Yes ,600K-900K
+37,Entrepreneurship,Non-Technical,Yes,No,600K-900K
+38,Entrepreneurship,Non-Technical,No,No,900K-1200K
+39,Government Sector,Technical,No,Yes,900K-1200K
+40,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+41,Government Sector,Non-Technical,No ,Yes ,600K-900K
+42,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+43,Entrepreneurship,Non-Technical,No,No,900K-1200K
+44,Government Sector,Non-Technical,Yes,No,900K-1200K
+45,Government Sector,Art,Yes,No,900K-1200K
+46,Private Sector,Technical,No,Yes,1200K-1500K
+47,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+48,Government Sector,Art,Yes,No,900K-1200K
+49,Government Sector,Technical,No,Yes,900K-1200K
+50,Entrepreneurship,Technical,No,No,900K-1200K
+51,Entrepreneurship,Technical,No,Yes,900K-1200K
+52,Entrepreneurship,Technical,Yes,No,More Than 1500K
+53,Private Sector,Non-Technical,No ,Yes ,600K-900K
+54,Government Sector,Technical,No,No,900K-1200K
+55,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+56,Private Sector,Technical,No,Yes,1200K-1500K
+57,Government Sector,Non-Technical,Yes,No,1200K-1500K
+58,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+59,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+60,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+61,Government Sector,Non-Technical,No ,Yes ,600K-900K
+62,Entrepreneurship,Art,No,Yes,1200K-1500K
+63,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+64,Government Sector,Art,Yes,No,900K-1200K
+65,Private Sector,Technical,No,Yes,1200K-1500K
+66,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+67,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+68,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+69,Private Sector,Technical,No,Yes,1200K-1500K
+70,Government Sector,Non-Technical,Yes,No,1200K-1500K
+71,Private Sector,Technical,No,Yes,1200K-1500K
+72,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+73,Private Sector,Technical,No,Yes,More Than 1500K
+74,Entrepreneurship,Non-Technical,No,No,900K-1200K
+75,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+76,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+77,Government Sector,Non-Technical,No,No,1200K-1500K
+78,Government Sector,Technical,No,Yes,900K-1200K
+79,Government Sector,Non-Technical,No,No,More Than 1500K
+80,Government Sector,Non-Technical,Yes,No,900K-1200K
+81,Private Sector,Technical,No,Yes,1200K-1500K
+82,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+83,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+84,Private Sector,Non-Technical,No ,Yes ,600K-900K
+85,Private Sector,Art,Yes,Yes,More Than 1500K
+86,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+87,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+88,Government Sector,Non-Technical,No,No,More Than 1500K
+89,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+90,Entrepreneurship,Technical,Yes,No,More Than 1500K
+91,Government Sector,Non-Technical,Yes,No,1200K-1500K
+92,Government Sector,Non-Technical,Yes,No,1200K-1500K
+93,Private Sector,Non-Technical,No ,Yes ,900K-1200K
+94,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+95,Government Sector,Technical,No,No,900K-1200K
+96,Government Sector,Non-Technical,No,No,1200K-1500K
+97,Private Sector,Technical,No,Yes,1200K-1500K
+98,Government Sector,Non-Technical,Yes,No,900K-1200K
+99,Entrepreneurship,Non-Technical,No,No,900K-1200K
+100,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+101,Government Sector,Art,Yes,No,900K-1200K
+102,Government Sector,Technical,No,No,More Than 1500K
+103,Private Sector,Technical,No,Yes,1200K-1500K
+104,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+105,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+106,Government Sector,Technical,No,Yes,900K-1200K
+107,Government Sector,Non-Technical,No ,Yes ,600K-900K
+108,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+109,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+110,Private Sector,Technical,No,Yes,1200K-1500K
+111,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+112,Government Sector,Non-Technical,No ,Yes ,600K-900K
+113,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+114,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+115,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+116,Government Sector,Technical,No,No,900K-1200K
+117,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+118,Government Sector,Non-Technical,Yes,No,1200K-1500K
+119,Private Sector,Technical,No,Yes,1200K-1500K
+120,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+121,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+122,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+123,Entrepreneurship,Non-Technical,Yes,No,600K-900K
+124,Government Sector,Non-Technical,No ,Yes ,600K-900K
+125,Entrepreneurship,Technical,No,Yes,900K-1200K
+126,Private Sector,Technical,No,Yes,More Than 1500K
+127,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+128,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+129,Government Sector,Non-Technical,No,No,More Than 1500K
+130,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+131,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+132,Private Sector,Technical,No,Yes,More Than 1500K
+133,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+134,Private Sector,Non-Technical,No ,Yes ,600K-900K
+135,Private Sector,Technical,No,Yes,1200K-1500K
+136,Government Sector,Non-Technical,Yes,No,1200K-1500K
+137,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+138,Government Sector,Technical,No,No,900K-1200K
+139,Entrepreneurship,Technical,Yes,No,More Than 1500K
+140,Private Sector,Technical,No,Yes,1200K-1500K
+141,Government Sector,Non-Technical,Yes,No,1200K-1500K
+142,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+143,Entrepreneurship,Non-Technical,Yes,No,600K-900K
+144,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+145,Government Sector,Non-Technical,No,No,1200K-1500K
+146,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+147,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+148,Private Sector,Non-Technical,No ,Yes ,600K-900K
+149,Government Sector,Non-Technical,Yes,No,1200K-1500K
+150,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+151,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+152,Government Sector,Non-Technical,No,No,1200K-1500K
+153,Government Sector,Non-Technical,Yes,No,900K-1200K
+154,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+155,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+156,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+157,Government Sector,Non-Technical,No,No,1200K-1500K
+158,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+159,Entrepreneurship,Art,No,Yes,1200K-1500K
+160,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+161,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+162,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+163,Government Sector,Technical,No,Yes,900K-1200K
+164,Government Sector,Non-Technical,Yes,No,900K-1200K
+165,Government Sector,Non-Technical,Yes,No,1200K-1500K
+166,Government Sector,Technical,No,Yes,900K-1200K
+167,Government Sector,Non-Technical,No,No,1200K-1500K
+168,Government Sector,Art,Yes,No,900K-1200K
+169,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+170,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+171,Government Sector,Art,Yes,No,900K-1200K
+172,Government Sector,Technical,No,No,900K-1200K
+173,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+174,Private Sector,Technical,No,Yes,1200K-1500K
+175,Government Sector,Non-Technical,Yes,No,1200K-1500K
+176,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+177,Private Sector,Technical,No,Yes,1200K-1500K
+178,Government Sector,Non-Technical,Yes,No,900K-1200K
+179,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+180,Private Sector,Technical,Yes,Yes,More Than 1500K
+181,Private Sector,Technical,No,Yes,1200K-1500K
+182,Government Sector,Non-Technical,Yes,No,1200K-1500K
+183,Private Sector,Technical,No,Yes,1200K-1500K
+184,Entrepreneurship,Art,No,Yes,1200K-1500K
+185,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+186,Government Sector,Non-Technical,Yes,No,900K-1200K
+187,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+188,Government Sector,Technical,No,No,More Than 1500K
+189,Government Sector,Non-Technical,No,No,More Than 1500K
+190,Private Sector,Art ,No ,Yes ,600K-900K
+191,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+192,Government Sector,Non-Technical,No,No,More Than 1500K
+193,Private Sector,Non-Technical,No ,Yes ,600K-900K
+194,Private Sector,Technical,No,Yes,More Than 1500K
+195,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+196,Government Sector,Non-Technical,Yes,No,1200K-1500K
+197,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+198,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+199,Private Sector,Technical,No,Yes,More Than 1500K
+200,Government Sector,Non-Technical,Yes,No,900K-1200K
+201,Government Sector,Technical,No,No,900K-1200K
+202,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+203,Private Sector,Technical,No,Yes,1200K-1500K
+204,Government Sector,Non-Technical,Yes,No,1200K-1500K
+205,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+206,Government Sector,Technical,No,Yes,900K-1200K
+207,Private Sector,Technical,No,Yes,1200K-1500K
+208,Private Sector,Non-Technical,No ,Yes ,600K-900K
+209,Private Sector,Technical,No,Yes,More Than 1500K
+210,Government Sector,Non-Technical,No ,Yes ,600K-900K
+211,Entrepreneurship,Technical,No,No,900K-1200K
+212,Private Sector,Technical,No,Yes,More Than 1500K
+213,Private Sector,Art,Yes,Yes,More Than 1500K
+214,Private Sector,Technical,No,Yes,1200K-1500K
+215,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+216,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+217,Private Sector,Art,Yes,Yes,More Than 1500K
+218,Private Sector,Technical,Yes,Yes,More Than 1500K
+219,Government Sector,Art,Yes,No,900K-1200K
+220,Private Sector,Non-Technical,No ,Yes ,600K-900K
+221,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+222,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+223,Government Sector,Technical,No,No,More Than 1500K
+224,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+225,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+226,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+227,Private Sector,Technical,No,Yes,900K-1200K
+228,Private Sector,Technical,No,Yes,900K-1200K
+229,Government Sector,Non-Technical,Yes,No,1200K-1500K
+230,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+231,Private Sector,Art ,No ,Yes ,600K-900K
+232,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+233,Entrepreneurship,Art,No,Yes,1200K-1500K
+234,Government Sector,Non-Technical,Yes,No,1200K-1500K
+235,Private Sector,Art ,No ,Yes ,600K-900K
+236,Private Sector,Art ,No ,Yes ,600K-900K
+237,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+238,Government Sector,Technical,No,Yes,900K-1200K
+239,Government Sector,Non-Technical,Yes,No,1200K-1500K
+240,Government Sector,Non-Technical,No ,Yes ,600K-900K
+241,Government Sector,Non-Technical,Yes,No,1200K-1500K
+242,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+243,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+244,Private Sector,Technical,No,Yes,1200K-1500K
+245,Government Sector,Technical,No,No,900K-1200K
+246,Government Sector,Non-Technical,Yes,No,900K-1200K
+247,Government Sector,Technical,No,Yes,900K-1200K
+248,Government Sector,Non-Technical,Yes,No,900K-1200K
+249,Government Sector,Non-Technical,Yes,No,1200K-1500K
+250,Government Sector,Non-Technical,Yes,No,900K-1200K
+251,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+252,Government Sector,Technical,No,No,More Than 1500K
+253,Government Sector,Art,Yes,No,900K-1200K
+254,Government Sector,Non-Technical,Yes,No,900K-1200K
+255,Private Sector,Technical,No,Yes,More Than 1500K
+256,Entrepreneurship,Technical,No,No,More Than 1500K
+257,Government Sector,Non-Technical,No ,Yes ,600K-900K
+258,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+259,Government Sector,Non-Technical,Yes,No,900K-1200K
+260,Government Sector,Technical,No,No,900K-1200K
+261,Private Sector,Non-Technical,No ,Yes ,600K-900K
+262,Government Sector,Technical,No,No,900K-1200K
+263,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+264,Entrepreneurship,Non-Technical,No,No,900K-1200K
+265,Government Sector,Non-Technical,No ,Yes ,600K-900K
+266,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+267,Private Sector,Technical,No,Yes,1200K-1500K
+268,Private Sector,Art,Yes,Yes,More Than 1500K
+269,Government Sector,Non-Technical,No,No,1200K-1500K
+270,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+271,Private Sector,Art ,No ,Yes ,600K-900K
+272,Private Sector,Art,Yes,Yes,More Than 1500K
+273,Government Sector,Non-Technical,Yes,No,900K-1200K
+274,Government Sector,Technical,No,No,900K-1200K
+275,Government Sector,Non-Technical,No,No,More Than 1500K
+276,Government Sector,Non-Technical,No ,Yes ,600K-900K
+277,Private Sector,Technical,No,Yes,1200K-1500K
+278,Private Sector,Art ,No ,Yes ,600K-900K
+279,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+280,Government Sector,Technical,No,Yes,900K-1200K
+281,Private Sector,Art,Yes,Yes,More Than 1500K
+282,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+283,Government Sector,Non-Technical,No,No,More Than 1500K
+284,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+285,Private Sector,Art,Yes,Yes,More Than 1500K
+286,Entrepreneurship,Technical,No,Yes,900K-1200K
+287,Government Sector,Technical,No,No,900K-1200K
+288,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+289,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+290,Private Sector,Technical,No,Yes,900K-1200K
+291,Entrepreneurship,Art,No,Yes,1200K-1500K
+292,Government Sector,Technical,No,No,900K-1200K
+293,Government Sector,Non-Technical,No ,Yes ,600K-900K
+294,Government Sector,Technical,No,No,More Than 1500K
+295,Entrepreneurship,Art,No,Yes,1200K-1500K
+296,Entrepreneurship,Non-Technical,No,No,900K-1200K
+297,Private Sector,Technical,No,Yes,More Than 1500K
+298,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+299,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
+300,Government Sector,Technical,No,Yes,900K-1200K
+301,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+302,Government Sector,Non-Technical,Yes,No,900K-1200K
+303,Private Sector,Art ,No ,Yes ,600K-900K
+304,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+305,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+306,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+307,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+308,Private Sector,Technical,No,Yes,1200K-1500K
+309,Private Sector,Art ,No ,Yes ,600K-900K
+310,Private Sector,Art ,No ,Yes ,600K-900K
+311,Private Sector,Technical,No,Yes,1200K-1500K
+312,Private Sector,Technical,Yes,Yes,More Than 1500K
+313,Private Sector,Non-Technical,No ,Yes ,600K-900K
+314,Entrepreneurship,Art,Yes,Yes,1200K-1500K
+315,Private Sector,Non-Technical,No ,Yes ,600K-900K
+316,Government Sector,Non-Technical,No,No,More Than 1500K
+317,Private Sector,Non-Technical,No ,Yes ,900K-1200K
+318,Government Sector,Non-Technical,Yes,No,900K-1200K
+319,Government Sector,Art,Yes,No,900K-1200K
+320,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+321,Entrepreneurship,Technical,Yes,No,More Than 1500K
+322,Private Sector,Non-Technical,No ,Yes ,600K-900K
+323,Government Sector,Technical,No,Yes,900K-1200K
+324,Entrepreneurship,Technical,No,Yes,900K-1200K
+325,Private Sector,Technical,No,Yes,1200K-1500K
+326,Government Sector,Technical,No,No,More Than 1500K
+327,Government Sector,Technical,No,Yes,900K-1200K
+328,Private Sector,Technical,No,Yes,1200K-1500K
+329,Government Sector,Non-Technical,Yes,No,900K-1200K
+330,Government Sector,Technical,No,No,More Than 1500K
+331,Private Sector,Technical,Yes,Yes,More Than 1500K
+332,Private Sector,Technical,No,Yes,More Than 1500K
+333,Government Sector,Non-Technical,Yes,Yes ,600K-900K
+334,Private Sector,Non-Technical,No ,Yes ,900K-1200K
+335,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+336,Private Sector,Non-Technical,No ,Yes ,600K-900K
+337,Government Sector,Non-Technical,No,No,1200K-1500K
+338,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+339,Entrepreneurship,Technical,No,Yes,900K-1200K
+340,Private Sector,Technical,No,Yes,1200K-1500K
+341,Government Sector,Technical,No,No,More Than 1500K
+342,Government Sector,Technical,No,No,More Than 1500K
+343,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+344,Private Sector,Non-Technical,No ,Yes ,600K-900K
+345,Private Sector,Technical,No,Yes,1200K-1500K
+346,Government Sector,Non-Technical,No,No,1200K-1500K
+347,Government Sector,Technical,No,No,900K-1200K
+348,Private Sector,Art ,No ,Yes ,600K-900K
+349,Government Sector,Technical,No,No,900K-1200K
+350,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+351,Government Sector,Non-Technical,Yes,No,900K-1200K
+352,Private Sector,Non-Technical,Yes,Yes ,900K-1200K
+353,Government Sector,Non-Technical,Yes,No,1200K-1500K
+354,Private Sector,Technical,No,Yes,1200K-1500K
+355,Government Sector,Non-Technical,Yes,No,1200K-1500K
+356,Private Sector,Technical,No,Yes,1200K-1500K
+357,Entrepreneurship,Technical,Yes,No,More Than 1500K
+358,Private Sector,Non-Technical,No ,Yes ,600K-900K
+359,Private Sector,Art ,No ,Yes ,600K-900K
+360,Government Sector,Non-Technical,Yes,Yes ,900K-1200K
+361,Government Sector,Art,Yes,No,900K-1200K
+362,Government Sector,Art,Yes,No,900K-1200K
+363,Government Sector,Non-Technical,No ,Yes ,600K-900K
+364,Entrepreneurship,Art,No,Yes,1200K-1500K
+365,Entrepreneurship,Art,No,Yes,1200K-1500K
+366,Government Sector,Art,Yes,No,900K-1200K
+367,Government Sector,Non-Technical,No ,Yes ,600K-900K
+368,Government Sector,Technical,No,Yes,900K-1200K
+369,Government Sector,Non-Technical,Yes,No,900K-1200K
+370,Private Sector,Non-Technical,Yes,Yes,900K-1200K
+371,Government Sector,Non-Technical,Yes,No,1200K-1500K
+372,Entrepreneurship,Non-Technical,No,No,900K-1200K
+373,Private Sector,Non-Technical,No ,Yes ,600K-900K
+374,Government Sector,Art,Yes,No,900K-1200K
+375,Entrepreneurship,Non-Technical,No,No,900K-1200K
+376,Government Sector,Technical,No,No,More Than 1500K
+377,Private Sector,Technical,No,Yes,900K-1200K
+378,Government Sector,Technical,No,No,900K-1200K
+379,Private Sector,Non-Technical,No ,Yes ,600K-900K
+380,Government Sector,Non-Technical,No,No,More Than 1500K
+381,Entrepreneurship,Art,No,Yes,1200K-1500K
+382,Entrepreneurship,Technical,No,Yes,900K-1200K
+383,Private Sector,Technical,No,Yes,More Than 1500K
+384,Private Sector,Art,Yes,Yes,More Than 1500K
+385,Government Sector,Technical,No,Yes,900K-1200K
+386,Government Sector,Non-Technical,Yes,No,900K-1200K
+387,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+388,Entrepreneurship,Non-Technical,No,No,1200K-1500K
+389,Government Sector,Non-Technical,Yes,No,900K-1200K
+390,Government Sector,Non-Technical,Yes,No,1200K-1500K
+391,Private Sector,Non-Technical,Yes,Yes,More Than 1500K
+392,Private Sector,Technical,No,Yes,900K-1200K
+393,Government Sector,Technical,No,No,More Than 1500K
+394,Private Sector,Technical,No,Yes,1200K-1500K
+395,Private Sector,Non-Technical,No ,Yes ,600K-900K
+396,Government Sector,Non-Technical,Yes,No,900K-1200K
+397,Government Sector,Non-Technical,Yes,No,900K-1200K
+398,Government Sector,Non-Technical,No,No,More Than 1500K
+399,Entrepreneurship,Non-Technical,Yes,No,900K-1200K
