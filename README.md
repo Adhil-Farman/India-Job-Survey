@@ -40,7 +40,7 @@ A detailed Tableau visualization has been created using the dataset. The primary
 3. Employment Background (Technical, Non-Technical, Arts)
 4. Yearly Income Range
 
-![India Job Survey Chart](India_Job_Survey.png)
+![India Job Survey Chart](India Job Survey.png)
 
 **Key Features of Visualization:**
 - Blue bars represent individuals without a degree.
@@ -90,7 +90,7 @@ A detailed Tableau visualization has been created using the dataset. The primary
 ## Acknowledgments
 
 - The survey responses were collected anonymously.
-- Visualization was developed in **Tableau**.
+- Visualization was developed in **[Tableau](https://public.tableau.com/authoring/IndiaJobSurvey/Job#1)**.
 - Analysis inspired by job market trends in India.
 
 --- 
